@@ -1,8 +1,8 @@
 # Laravel Nova Horizon Link
 
-This [Nova](https://nova.laravel.com/) tool adds a a link to [Laraval Horizon](https://horizon.laravel.com/) to the Nova sidebar.
+This [Nova](https://nova.laravel.com/) tool adds a link to your project's [Laraval Horizon](https://horizon.laravel.com/) dashboard in your Nova sidebar.
 
-That's all it does.
+That's all it does!
 
 ![screenshot of Laravel Nova Horizon Link tool](https://data.alexpgates.com/images/nova-horizon-link/screenshot.png)
 
