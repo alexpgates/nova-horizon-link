@@ -15,7 +15,7 @@ class HorizonLink extends Tool
     public function boot()
     {
         Nova::script('horizon-link', __DIR__.'/../dist/js/tool.js');
-        Nova::style('horizon-link', __DIR__.'/../dist/css/tool.css');
+        // Nova::style('horizon-link', __DIR__.'/../dist/css/tool.css');
     }
 
     /**
