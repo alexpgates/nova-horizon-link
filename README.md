@@ -10,7 +10,7 @@ That's all it does.
 
 Install via [Composer](https://getcomposer.org/):
 ```
-composer require alexpgates/nova-horizon-link
+composer require alexpgates/horizon-link
 ```
 
 Register the tool in `app/Providers/NovaServiceProvider`:
