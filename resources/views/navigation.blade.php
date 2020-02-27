@@ -1,6 +1,5 @@
 <a class="cursor-pointer flex items-center font-normal dim text-white mb-6 text-base no-underline" href="{{route('horizon.index')}}" target="_blank">
 <!-- logo: https://raw.githubusercontent.com/laravel/horizon/1.0/resources/assets/img/horizon.svg -->
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="150px" viewBox="0 0 226 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="horizon" fill="var(--sidebar-icon)">
